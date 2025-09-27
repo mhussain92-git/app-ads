@@ -13,3 +13,8 @@ facebook.com, 2199734140478661, DIRECT, c3e20eee3f780d68
 # Google AdMob
 google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
 
+# Dreamy Snap
+# Google AdMob
+google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
+
+
