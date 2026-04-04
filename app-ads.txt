@@ -28,3 +28,7 @@ google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
 # Allama Hafiz Bilal Qadri Naats
 # Google AdMob
 google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
+
+# Math Tug War
+# Google Admob
+google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
